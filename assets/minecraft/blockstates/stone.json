@@ -1,9 +1,9 @@
 {
     "variants": {
-        "": [
-            { "model": "block/stone", "weight": 5 },
-            { "model": "block/variants/stone/stone_01", "weight": 4 },
-            { "model": "block/variants/stone/stone_02", "weight": 4 }
+        "normal": [
+            { "model": "stone", "weight": 12 },
+            { "model": "stone/stone_1", "weight": 4 },
+            { "model": "stone/stone_2", "weight": 4 }
         ]
     }
 }
