@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "custom/blocks/stonebrick_carved_monster_egg"
+    }
+}
